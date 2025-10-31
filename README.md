@@ -49,4 +49,4 @@ See `/docs` folder for detailed documentation.
 Please read CONTRIBUTING.md before submitting pull requests.
 
 ## License
-MIT License
+MIT License"## FAQ" 
