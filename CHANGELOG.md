@@ -1,0 +1,8 @@
+- d6fe60b: docs: Update README (iswarya, 7 minutes ago)
+- b0224c0: docs: Add FAQ section (iswarya, 7 minutes ago)
+- 484cb3f: merge: Resolve all conflicts between main and dev branches (iswarya, 8 minutes ago)
+- 31ebe2d: merge: Resolve all conflicts between main and dev branches (iswarya, 12 minutes ago)
+- d3dd9b2: updating conflict-simulator (Hanu Gupta, 8 days ago)
+- 0312c6f: updating main (Hanu Gupta, 8 days ago)
+- fadfd24: Revise README for DevOps Simulator project (Hanu Gupta, 8 days ago)
+- ae630eb: Initial commit (Hanu Gupta, 8 days ago)
